@@ -8,6 +8,18 @@ Launchd scripts to reload VirtualBox drivers and plumb and configure bridge0.
 Usage
 =====
 
-	./install.sh
+Installation:
 
+	$ install.sh
 
+Stop VirtualBox Bridge:
+
+	$ vbox-bridge stop
+
+Start VirtualBox Bridge:
+
+	$ vbox-bridge start
+
+Restart VirtualBox Bridge:
+
+	$ vbox-bridge restart

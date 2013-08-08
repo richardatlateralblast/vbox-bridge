@@ -6,7 +6,7 @@
 <string>com.vbox.bridge</string>
 <key>ProgramArguments</key>
 <array>
-<string>/usr/local/bin/vbox-bridge.sh</string>
+<string>/usr/bin/vbox-bridge.sh</string>
 </array>
 <key>UserName</key>
 <string>root</string>
