@@ -66,8 +66,8 @@ case "$1" in
   *)
     echo "Usage:"
     echo ""
-    echo "Restart VirtualBox Bridge interface and NAT: vbox-bridge restart
-    echo "Start VirtualBox Bridge interface and NAT:   vbox-bridge start
-    echo "Stop VirtualBox Bridge interface and NAT:    vbox-bridge stop
+    echo "Restart VirtualBox Bridge interface and NAT: vbox-bridge restart"
+    echo "Start VirtualBox Bridge interface and NAT:   vbox-bridge start"
+    echo "Stop VirtualBox Bridge interface and NAT:    vbox-bridge stop"
     echo ""
 esac
